@@ -1,6 +1,6 @@
 # Site settings
-title: Mauna2 | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Mauna Masszázs Stúdió
+description: ""
 baseurl: "http://ylonil.github.io/mauna/" # the subpath of your site, e.g. /blog
 url: "http://ylonil.github.io/mauna/" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,23 +8,21 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Mauna Masszázs Stúdió
+    hero_description: Szeretettel várunk minden kedves vendéget.
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: +36 70 624 0064
+    address: Rácvárosi út 16. <br> Pécs
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: TBA
+saturday: TBA
+sunday: TBA
 
 # Testimonials
 testimonials:
@@ -33,19 +31,15 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Pécs, Rácvárosi út 16.
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+facebook: https://www.facebook.com/maunamasszazs.pecs
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: 2016 Mauna Masszás Stúdió
 
 # Build settings
 markdown: kramdown
