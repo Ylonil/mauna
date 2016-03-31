@@ -1,5 +1,5 @@
 # Site settings
-title: Mauna Masszázs Stúdió
+title: Mauna Masszázs Stúdió 2
 description: ""
 baseurl: "http://ylonil.github.io/mauna" # the subpath of your site, e.g. /blog
 url: "http://ylonil.github.io/mauna" # the name of your domain
@@ -7,7 +7,7 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: szalon.jpg
+    hero_img: hero.jpg
     hero_title: Mauna Masszázs Stúdió
     hero_description: Szeretettel várunk minden kedves vendéget.
 
