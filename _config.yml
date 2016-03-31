@@ -45,7 +45,7 @@ copyright: 2016 Mauna Masszás Stúdió
 markdown: kramdown
 
 sass:
-    sass_dir: _sass
+    sass_dir: _scss
 
 exclude: [
     package.json,
