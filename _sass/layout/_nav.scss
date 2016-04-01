@@ -1,5 +1,18 @@
 /* NAV
 -------------------------------------------------*/
+#logo {
+    display: inline-block;
+    max-width: 220px;
+    max-height: 150px;
+    border: $colorBorder 3px solid;
+    margin: 10px;
+    padding: 10px;
+    background: white;
+    position: absolute;
+    top: 0;
+    z-index: 10000;
+}
+
 .navbar-brand {
     padding: 0;
     line-height: 70px;
