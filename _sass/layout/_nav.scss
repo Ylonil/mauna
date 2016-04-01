@@ -7,7 +7,9 @@
         display: inline-block;
         max-width: 220px;
         max-height: 150px;
-        border: $colorBorder 1px solid;
+        border: $colorBorder 3px solid;
+        margin: 10px;
+        padding: 10px;
         background: white;
         @include breakpoint(lsmall) {
             max-width: none;
