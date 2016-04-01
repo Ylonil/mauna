@@ -1,5 +1,5 @@
 # Site settings
-title: Mauna Masszázs Stúdió 6
+title: Mauna Masszázs Stúdió
 description: ""
 baseurl: "http://ylonil.github.io/mauna" # the subpath of your site, e.g. /blog
 url: "http://ylonil.github.io/mauna" # the name of your domain
@@ -45,7 +45,7 @@ copyright: 2016 Mauna Masszás Stúdió
 markdown: kramdown
 
 sass:
-    sass_dir: _sass
+    sass_dir: css
 
 exclude: [
     package.json,
