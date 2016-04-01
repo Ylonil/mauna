@@ -6,7 +6,7 @@
     > img {
         display: inline-block;
         max-width: 220px;
-        max-height: 50px;
+        max-height: 150px;
         @include breakpoint(lsmall) {
             max-width: none;
         }
