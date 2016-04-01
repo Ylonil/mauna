@@ -44,9 +44,6 @@ copyright: 2016 Mauna Masszás Stúdió
 # Build settings
 markdown: kramdown
 
-sass:
-    sass_dir: _scss
-
 exclude: [
     package.json,
     Gruntfile.js,
