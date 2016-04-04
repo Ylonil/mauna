@@ -1,16 +1,13 @@
 /* NAV
 -------------------------------------------------*/
 #logo {
-    display: inline-block;
-    max-width: 220px;
+    display: inline;
+    max-width: 150px;
     max-height: 150px;
-    border: $colorBorder 3px solid;
-    margin: 10px;
+    border: $colorBorder 2px solid;
+    margin: 0px;
     padding: 10px;
     background: white;
-    position: absolute;
-    top: 0;
-    z-index: 10000;
 }
 
 .navbar-brand {
