@@ -4,6 +4,11 @@
 /* Fonts
 -------------------------------*/
 
+@font-face {
+    font-family: vivaldi;
+    src: url(font/vivaldi.ttf);
+}
+
 /* Font family */
 $fontFamilyPrimary: 'Open Sans', sans-serif;
 $fontFamilySecondary: 'Nunito', sans-serif;
